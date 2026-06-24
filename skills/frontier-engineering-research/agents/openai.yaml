@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontier Engineering Research"
+  short_description: "X-first engineering source scouting"
+  default_prompt: "Use $frontier-engineering-research to research current engineering solution options and frontier thinking."

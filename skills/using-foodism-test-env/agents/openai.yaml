@@ -1,0 +1,4 @@
+interface:
+  display_name: "Foodism Test Env"
+  short_description: "SSH and logs for Foodism test"
+  default_prompt: "Use $using-foodism-test-env to connect to the Foodism test environment and inspect service logs."
