@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acceptance Before Completion"
+  short_description: "Verify work against user goals before handoff."
+  default_prompt: "Before you mark this task done, run the acceptance gate and report pass, warn, or fail for each criterion."

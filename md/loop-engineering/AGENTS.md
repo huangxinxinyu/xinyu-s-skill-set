@@ -30,6 +30,8 @@ Use the skills in this package to shape the loop:
   cause is unclear.
 - `receiving-code-review`: use before applying review feedback, especially when
   the feedback is broad or technically questionable.
+- `acceptance-before-completion`: use before final handoff or marking a goal
+  complete, especially when the result may have drifted from the user's request.
 - `using-git-worktrees`: use before larger isolated feature work or when the
   current workspace should stay untouched.
 - `writing-skills`: use when creating or changing skills.
@@ -41,7 +43,8 @@ Default complex-task flow:
 3. Use `planning-with-files` to create the execution plan.
 4. Implement in small increments, using TDD/debugging skills when applicable.
 5. Verify, update progress, and commit each coherent unit.
-6. Mark the goal complete only after the final verification and commits.
+6. Run `acceptance-before-completion`, then mark the goal complete only after
+   final verification and required commits.
 
 ## Work Loop
 
@@ -85,6 +88,7 @@ refactor: split provider setup
 When the goal is done, report:
 
 - what changed,
+- acceptance result,
 - commit hash or hashes,
 - verification run,
 - anything intentionally not run,

@@ -4,6 +4,7 @@ Personal Codex skill collection for syncing the same skills across machines.
 
 ## Skills Included
 
+- `acceptance-before-completion`
 - `brainstorming`
 - `frontier-engineering-research`
 - `grill-me`
