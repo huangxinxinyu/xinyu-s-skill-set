@@ -17,6 +17,11 @@ Personal Codex skill collection for syncing the same skills across machines.
 - `using-git-worktrees`
 - `writing-skills`
 
+## Markdown Notes
+
+- `md/loop-engineering/AGENTS.md`: compact loop engineering instructions for
+  goal-driven coding-agent work with this skill set.
+
 ## Install
 
 Clone this repo on a new machine, then copy the skills you want into your local skill directory:
