@@ -21,6 +21,8 @@ Personal Codex skill collection for syncing the same skills across machines.
 
 - `md/loop-engineering/AGENTS.md`: compact loop engineering instructions for
   goal-driven coding-agent work with this skill set.
+- `md/loop-engineering/BACKEND_ENGINEERING.md`: reusable backend engineering
+  standards for API, storage, jobs, consistency, and production behavior.
 
 ## Install
 
