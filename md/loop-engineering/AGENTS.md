@@ -32,6 +32,7 @@ Use the skills in this package to shape the loop:
   the feedback is broad or technically questionable.
 - `acceptance-before-completion`: use before final handoff or marking a goal
   complete, especially when the result may have drifted from the user's request.
+- `atomic-step-commit`: use when splitting, staging, or creating commits.
 - `using-git-worktrees`: use before larger isolated feature work or when the
   current workspace should stay untouched.
 - `writing-skills`: use when creating or changing skills.
@@ -65,23 +66,7 @@ During work:
 
 ## Git
 
-Commit by the smallest atomic work unit that can be reviewed on its own:
-
-- one bug fix plus its test,
-- one feature slice plus verification,
-- one documentation update,
-- one mechanical refactor with no behavior change.
-
-Do not batch unrelated changes into one commit. Use concise conventional-style
-subjects when possible:
-
-```text
-docs: add loop engineering instructions
-feat: add run retry policy
-fix: handle duplicate events
-test: cover invalid state transition
-refactor: split provider setup
-```
+Use `atomic-step-commit` when splitting, staging, or creating commits.
 
 ## Final Response
 
