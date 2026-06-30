@@ -11,6 +11,7 @@ Personal Codex skill collection for syncing the same skills across machines.
 - `grill-me`
 - `grill-with-docs`
 - `planning-with-files`
+- `ponytail`
 - `receiving-code-review`
 - `systematic-debugging`
 - `teach`
