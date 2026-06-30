@@ -1,0 +1,4 @@
+interface:
+  display_name: "Atomic Step Commit"
+  short_description: "Commit work in smallest independently verifiable steps."
+  default_prompt: "Commit the current work as atomic, independently verifiable steps."
