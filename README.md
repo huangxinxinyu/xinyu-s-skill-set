@@ -10,6 +10,7 @@ Personal Codex skill collection for syncing the same skills across machines.
 - `frontier-engineering-research`
 - `grill-me`
 - `grill-with-docs`
+- `multica-delivery`
 - `planning-with-files`
 - `ponytail`
 - `receiving-code-review`
