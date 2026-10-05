@@ -8,7 +8,6 @@ Personal Codex skill collection for syncing the same skills across machines. The
 - `animate-expo`
 - `animation-vocabulary`
 - `apple-design`
-- `ask-sonner`
 - `atomic-step-commit`
 - `brainstorm-experiments-new`
 - `brainstorm-ideas-new`
