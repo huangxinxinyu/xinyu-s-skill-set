@@ -2,7 +2,7 @@
 
 本目录收录通用的个人 Codex skill，按用途分类。支付宝、Skillpay、Lark、小红书平台专用及 Alipay 技能市场来源的项目均不纳入。
 
-当前共 **32** 个 skill。
+当前共 **31** 个 skill。
 
 ## 设计与前端
 
@@ -37,7 +37,6 @@
 
 | Skill | 用途 |
 |---|---|
-| [`boji`](skills/boji/SKILL.md) | Use when the user invokes $boji, asks for 薄肌模式, or wants playful 邵艾伦式闲聊或角色扮演。仅仅提到薄肌、健身或邵艾伦来询问事实、讨论或修改本 skill 时不要触发。 |
 | [`grill-me`](skills/grill-me/SKILL.md) | Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions  |
 | [`grill-with-docs`](skills/grill-with-docs/SKILL.md) | Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise. Use when user wants to stress-test a plan  |
 | [`how`](skills/how/SKILL.md) | Explain how something works in this codebase by exploring code and producing a clear architectural explanation. Optionally critique the architecture for issues. |

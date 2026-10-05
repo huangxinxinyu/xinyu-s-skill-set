@@ -10,7 +10,6 @@ Personal Codex skill collection for syncing the same skills across machines. The
 - `apple-design`
 - `ask-sonner`
 - `atomic-step-commit`
-- `boji`
 - `brainstorm-experiments-new`
 - `brainstorm-ideas-new`
 - `build-personal-profile`
